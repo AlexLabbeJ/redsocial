@@ -1,0 +1,57 @@
+body{
+  background-color: #e9ecef !important;
+  font-family: "Segoe UI",Arial,sans-serif !important;
+}
+.contIndex{
+  background-color: #ffffff;
+  padding: 5px;
+  border-radius: 4px;
+  margin-right: 3px;
+  width: 100%;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.containerPost{
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+#divLogin{
+  background-color: #ffffff;
+}
+#divRegister{
+  background-color: #ffffff;
+}
+
+.tooltipFecha:hover{
+  text-decoration: underline;
+  color: #868e96;
+  cursor: pointer;
+}
+.contLikes{
+  color: #333;
+}
+.contLikes:hover{
+  cursor: pointer;
+}
+.txtReacciones{
+  color: #616770;font-size: 14px;
+}
+hr{
+  margin-top: 6px !important;
+  margin-bottom: 6px !important;
+}
+.txtMG{
+  font-family: "Segoe UI",Arial,sans-serif !important;
+  font-size: 12px;
+  font-weight: normal;
+}
+.txtMG b{
+  position: relative;
+  margin-left: 4px;
+  top: 2px;
+}
